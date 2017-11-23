@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 # mount.sftp - mount sshfs using /etc/fstab
 # Copyright (C) 2015 Benjamin Abendroth
